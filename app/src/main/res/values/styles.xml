@@ -1,0 +1,38 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+
+    <declare-styleable name="AreaSplineChartView">
+        <!-- Y坐标文字颜色 -->
+        <attr name="ascv_yAxisTextColor" format="color" />
+        <!-- Y坐标文字大小 -->
+        <attr name="ascv_yAxisTextSize" format="dimension" />
+        <!-- XY轴线粗细 -->
+        <attr name="ascv_xyAxisLineWidth" format="dimension" />
+        <!-- XY轴线颜色 -->
+        <attr name="ascv_xyAxisLineColor" format="color" />
+        <!-- 第一个点距离左边的距离 -->
+        <attr name="ascv_firstPointMarginLeft" format="dimension" />
+        <!-- 曲线颜色 -->
+        <attr name="ascv_firstSplineStartColor" format="color" />
+        <attr name="ascv_firstSplineCenterColor" format="color" />
+        <attr name="ascv_firstSplineEndColor" format="color" />
+        <attr name="ascv_secondSplineStartColor" format="color" />
+        <attr name="ascv_secondSplineCenterColor" format="color" />
+        <attr name="ascv_secondSplineEndColor" format="color" />
+        <!-- 曲线宽度 -->
+        <attr name="ascv_splineWidth" format="dimension" />
+        <!-- 贝塞尔曲线控制点系数 -->
+        <attr name="ascv_lineSmoothness" format="float" />
+        <!-- 曲线终点半径 -->
+        <attr name="ascv_splineDestinationRadius" format="float" />
+        <!-- 曲线终点雷达涟漪最大半径 -->
+        <attr name="ascv_splineDestinationRadarRippleMaxRadius" format="float" />
+    </declare-styleable>
+</resources>

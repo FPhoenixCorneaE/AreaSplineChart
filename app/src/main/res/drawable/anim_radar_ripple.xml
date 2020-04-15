@@ -1,0 +1,293 @@
+<?xml version="1.0" encoding="utf-8"?>
+<animation-list xmlns:android="http://schemas.android.com/apk/res/android"
+    android:oneshot="false">
+
+    <item
+        android:drawable="@mipmap/s_shandong_h_012"
+        android:duration="80" />
+    <item
+        android:drawable="@mipmap/s_shandong_h_013"
+        android:duration="80" />
+    <item
+        android:drawable="@mipmap/s_shandong_h_014"
+        android:duration="80" />
+    <item
+        android:drawable="@mipmap/s_shandong_h_015"
+        android:duration="80" />
+    <item
+        android:drawable="@mipmap/s_shandong_h_016"
+        android:duration="80" />
+    <item
+        android:drawable="@mipmap/s_shandong_h_017"
+        android:duration="80" />
+    <item
+        android:drawable="@mipmap/s_shandong_h_018"
+        android:duration="80" />
+    <item
+        android:drawable="@mipmap/s_shandong_h_019"
+        android:duration="80" />
+    <item
+        android:drawable="@mipmap/s_shandong_h_020"
+        android:duration="80" />
+    <item
+        android:drawable="@mipmap/s_shandong_h_021"
+        android:duration="80" />
+    <item
+        android:drawable="@mipmap/s_shandong_h_022"
+        android:duration="80" />
+    <item
+        android:drawable="@mipmap/s_shandong_h_023"
+        android:duration="80" />
+    <item
+        android:drawable="@mipmap/s_shandong_h_024"
+        android:duration="80" />
+    <item
+        android:drawable="@mipmap/s_shandong_h_025"
+        android:duration="80" />
+    <item
+        android:drawable="@mipmap/s_shandong_h_026"
+        android:duration="80" />
+    <item
+        android:drawable="@mipmap/s_shandong_h_027"
+        android:duration="80" />
+    <item
+        android:drawable="@mipmap/s_shandong_h_028"
+        android:duration="80" />
+    <item
+        android:drawable="@mipmap/s_shandong_h_029"
+        android:duration="80" />
+    <item
+        android:drawable="@mipmap/s_shandong_h_030"
+        android:duration="80" />
+    <item
+        android:drawable="@mipmap/s_shandong_h_031"
+        android:duration="80" />
+    <item
+        android:drawable="@mipmap/s_shandong_h_032"
+        android:duration="80" />
+    <item
+        android:drawable="@mipmap/s_shandong_h_033"
+        android:duration="80" />
+    <item
+        android:drawable="@mipmap/s_shandong_h_034"
+        android:duration="80" />
+    <item
+        android:drawable="@mipmap/s_shandong_h_035"
+        android:duration="80" />
+    <item
+        android:drawable="@mipmap/s_shandong_h_036"
+        android:duration="80" />
+    <item
+        android:drawable="@mipmap/s_shandong_h_037"
+        android:duration="80" />
+    <item
+        android:drawable="@mipmap/s_shandong_h_038"
+        android:duration="80" />
+    <item
+        android:drawable="@mipmap/s_shandong_h_039"
+        android:duration="80" />
+    <item
+        android:drawable="@mipmap/s_shandong_h_040"
+        android:duration="80" />
+    <item
+        android:drawable="@mipmap/s_shandong_h_041"
+        android:duration="80" />
+    <item
+        android:drawable="@mipmap/s_shandong_h_042"
+        android:duration="80" />
+    <item
+        android:drawable="@mipmap/s_shandong_h_043"
+        android:duration="80" />
+    <item
+        android:drawable="@mipmap/s_shandong_h_044"
+        android:duration="80" />
+    <item
+        android:drawable="@mipmap/s_shandong_h_045"
+        android:duration="80" />
+    <item
+        android:drawable="@mipmap/s_shandong_h_046"
+        android:duration="80" />
+    <item
+        android:drawable="@mipmap/s_shandong_h_047"
+        android:duration="80" />
+    <item
+        android:drawable="@mipmap/s_shandong_h_048"
+        android:duration="80" />
+    <item
+        android:drawable="@mipmap/s_shandong_h_049"
+        android:duration="80" />
+    <item
+        android:drawable="@mipmap/s_shandong_h_050"
+        android:duration="80" />
+    <item
+        android:drawable="@mipmap/s_shandong_h_051"
+        android:duration="80" />
+    <item
+        android:drawable="@mipmap/s_shandong_h_052"
+        android:duration="80" />
+    <item
+        android:drawable="@mipmap/s_shandong_h_053"
+        android:duration="80" />
+    <item
+        android:drawable="@mipmap/s_shandong_h_054"
+        android:duration="80" />
+    <item
+        android:drawable="@mipmap/s_shandong_h_055"
+        android:duration="80" />
+    <item
+        android:drawable="@mipmap/s_shandong_h_056"
+        android:duration="80" />
+    <item
+        android:drawable="@mipmap/s_shandong_h_057"
+        android:duration="80" />
+    <item
+        android:drawable="@mipmap/s_shandong_h_058"
+        android:duration="80" />
+    <item
+        android:drawable="@mipmap/s_shandong_h_059"
+        android:duration="80" />
+    <item
+        android:drawable="@mipmap/s_shandong_h_060"
+        android:duration="80" />
+    <item
+        android:drawable="@mipmap/s_shandong_h_061"
+        android:duration="80" />
+    <item
+        android:drawable="@mipmap/s_shandong_h_062"
+        android:duration="80" />
+    <item
+        android:drawable="@mipmap/s_shandong_h_063"
+        android:duration="80" />
+    <item
+        android:drawable="@mipmap/s_shandong_h_064"
+        android:duration="80" />
+    <item
+        android:drawable="@mipmap/s_shandong_h_065"
+        android:duration="80" />
+    <item
+        android:drawable="@mipmap/s_shandong_h_066"
+        android:duration="80" />
+    <item
+        android:drawable="@mipmap/s_shandong_h_067"
+        android:duration="80" />
+    <item
+        android:drawable="@mipmap/s_shandong_h_068"
+        android:duration="80" />
+    <item
+        android:drawable="@mipmap/s_shandong_h_069"
+        android:duration="80" />
+    <item
+        android:drawable="@mipmap/s_shandong_h_070"
+        android:duration="80" />
+    <item
+        android:drawable="@mipmap/s_shandong_h_071"
+        android:duration="80" />
+    <item
+        android:drawable="@mipmap/s_shandong_h_072"
+        android:duration="80" />
+    <item
+        android:drawable="@mipmap/s_shandong_h_073"
+        android:duration="80" />
+    <item
+        android:drawable="@mipmap/s_shandong_h_074"
+        android:duration="80" />
+    <item
+        android:drawable="@mipmap/s_shandong_h_075"
+        android:duration="80" />
+    <item
+        android:drawable="@mipmap/s_shandong_h_076"
+        android:duration="80" />
+    <item
+        android:drawable="@mipmap/s_shandong_h_077"
+        android:duration="80" />
+    <item
+        android:drawable="@mipmap/s_shandong_h_078"
+        android:duration="80" />
+    <item
+        android:drawable="@mipmap/s_shandong_h_079"
+        android:duration="80" />
+    <item
+        android:drawable="@mipmap/s_shandong_h_080"
+        android:duration="80" />
+    <item
+        android:drawable="@mipmap/s_shandong_h_081"
+        android:duration="80" />
+    <item
+        android:drawable="@mipmap/s_shandong_h_082"
+        android:duration="80" />
+    <item
+        android:drawable="@mipmap/s_shandong_h_083"
+        android:duration="80" />
+    <item
+        android:drawable="@mipmap/s_shandong_h_084"
+        android:duration="80" />
+    <item
+        android:drawable="@mipmap/s_shandong_h_085"
+        android:duration="80" />
+    <item
+        android:drawable="@mipmap/s_shandong_h_086"
+        android:duration="80" />
+    <item
+        android:drawable="@mipmap/s_shandong_h_087"
+        android:duration="80" />
+    <item
+        android:drawable="@mipmap/s_shandong_h_088"
+        android:duration="80" />
+    <item
+        android:drawable="@mipmap/s_shandong_h_089"
+        android:duration="80" />
+    <item
+        android:drawable="@mipmap/s_shandong_h_090"
+        android:duration="80" />
+    <item
+        android:drawable="@mipmap/s_shandong_h_091"
+        android:duration="80" />
+    <item
+        android:drawable="@mipmap/s_shandong_h_092"
+        android:duration="80" />
+    <item
+        android:drawable="@mipmap/s_shandong_h_093"
+        android:duration="80" />
+    <item
+        android:drawable="@mipmap/s_shandong_h_094"
+        android:duration="80" />
+    <item
+        android:drawable="@mipmap/s_shandong_h_095"
+        android:duration="80" />
+    <item
+        android:drawable="@mipmap/s_shandong_h_096"
+        android:duration="80" />
+    <item
+        android:drawable="@mipmap/s_shandong_h_097"
+        android:duration="80" />
+    <item
+        android:drawable="@mipmap/s_shandong_h_098"
+        android:duration="80" />
+    <item
+        android:drawable="@mipmap/s_shandong_h_099"
+        android:duration="80" />
+    <item
+        android:drawable="@mipmap/s_shandong_h_100"
+        android:duration="80" />
+    <item
+        android:drawable="@mipmap/s_shandong_h_101"
+        android:duration="80" />
+    <item
+        android:drawable="@mipmap/s_shandong_h_102"
+        android:duration="80" />
+    <item
+        android:drawable="@mipmap/s_shandong_h_103"
+        android:duration="80" />
+    <item
+        android:drawable="@mipmap/s_shandong_h_104"
+        android:duration="80" />
+    <item
+        android:drawable="@mipmap/s_shandong_h_105"
+        android:duration="80" />
+    <item
+        android:drawable="@mipmap/s_shandong_h_106"
+        android:duration="80" />
+    <item
+        android:drawable="@mipmap/s_shandong_h_107"
+        android:duration="80" />
+</animation-list>
